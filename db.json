@@ -3,52 +3,52 @@
     {
       "id": "1",
       "name": "Alcohol",
-      "details": "Web Dev, Game Dev, Mobile Apps"
+      "details": "details"
     },
     {
       "id": "2",
       "name": "ADHD medications",
-      "details": "BackEnd, Data Science"
+      "details": "details"
     },
     {
       "id": "3",
       "name": "Antidepressants and antipsychotics",
-      "details": "App Dev, E-Commerce"
+      "details": "details"
     },
     {
       "id": "4",
       "name": "Anxiety medications and sleeping pills",
-      "details": "Databases"
+      "details": "details"
     },
     {
       "id": "5",
       "name": "Cannabis (Marijuana/Pot/Weed)",
-      "details": "Databases"
+      "details": "details"
     },
     {
       "id": "6",
       "name": "Central Nervous System Depressants (Benzos)",
-      "details": "Game Dev, Desktop Apps, Mobile Apps"
+      "details": "details"
     },
     {
       "id": "7",
       "name": "Cocaine (Coke/Crack)",
-      "details": "Operating Systems, VR, Web Browsers"
+      "details": "details"
     },
     {
       "id": "8",
       "name": "Heroin",
-      "details": "System Administration, GUI Development"
+      "details": "details"
     },
     {
       "id": "9",
       "name": "Ketamine",
-      "details": "System Programming, Audio Editing, Big Data"
+      "details": "details"
     },
     {
       "id": "10",
       "name": "Kratom",
-      "details": "System Programming, Audio Editing, Big Data"
+      "details": "details"
     }
   ]
 }
