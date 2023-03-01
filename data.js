@@ -1,47 +1,47 @@
 export default [
   {
     id: "1",
-    name: "JavaScript",
+    name: "Alcohol",
     details: "Web Dev, Game Dev, Mobile Apps",
   },
   {
     id: "2",
-    name: "Python",
+    name: "ADHD medications",
     details: "BackEnd, Data Science",
   },
   {
     id: "3",
-    name: "Java",
+    name: "Antidepressants and antipsychotics",
     details: "App Dev, E-Commerce",
   },
   {
     id: "4",
-    name: "SQL",
+    name: "Anxiety medications and sleeping pills",
     details: "Databases",
   },
   {
     id: "5",
-    name: "NoSQL",
+    name: "Cannabis (Marijuana/Pot/Weed)",
     details: "Databases",
   },
   {
     id: "6",
-    name: "C#",
+    name: "Central Nervous System Depressants (Benzos)",
     details: "Game Dev, Desktop Apps, Mobile Apps",
   },
   {
     id: "7",
-    name: "Rust",
+    name: "Cocaine (Coke/Crack)",
     details: "Operating Systems, VR, Web Browsers",
   },
   {
     id: "8",
-    name: "Perl",
+    name: "Heroin",
     details: "System Administration, GUI Development",
   },
   {
     id: "9",
-    name: "GO",
+    name: "Ketamine",
     details: "System Programming, Audio Editing, Big Data",
   },
 ];
