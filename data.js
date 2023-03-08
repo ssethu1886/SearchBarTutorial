@@ -3,6 +3,7 @@ export default [
     id: "1",
     name: "Alcohol",
     details: "Web Dev, Game Dev, Mobile Apps",
+    link: "\"https://www.google.com/""
   },
   {
     id: "2",
