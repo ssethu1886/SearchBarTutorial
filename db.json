@@ -3,12 +3,12 @@
     {
       "id": "1",
       "name": "Alcohol",
-      "details": "details"
+      "details": "wine, liquor, beer"
     },
     {
       "id": "2",
       "name": "ADHD medications",
-      "details": "details"
+      "details": "Adderall, Vyvanse, Ritalin"
     },
     {
       "id": "3",
@@ -18,77 +18,77 @@
     {
       "id": "4",
       "name": "Anxiety medications and sleeping pills",
-      "details": "details"
+      "details": "Benzos, Melatonin, Antihistamines, Barbiturates"
     },
     {
       "id": "5",
       "name": "Cannabis (Marijuana/Pot/Weed)",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "6",
       "name": "Central Nervous System Depressants (Benzos)",
-      "details": "details"
+      "details": "Xanax, Librium, Valium, Lunesta, Ambien"
     },
     {
       "id": "7",
       "name": "Cocaine (Coke/Crack)",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "8",
       "name": "Heroin",
-      "details": "details"
+      "details": "Dope, smack"
     },
     {
       "id": "9",
       "name": "Ketamine",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "10",
       "name": "Kratom",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "11",
       "name": "LSD (Acid)",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "12",
       "name": "MDMA (Ecstasy/Molly)",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "13",
       "name": "Methamphetamine (Crystal/Meth)",
-      "details": "details"
+      "details": "Speed"
     },
     {
       "id": "14",
       "name": "Pain Relievers- Over the Counter",
-      "details": "details"
+      "details": "Ibuprofen, Advil, Motrin, Tylenol, Aspirin"
     },
     {
       "id": "15",
       "name": "Prescription Opioids (Oxy/Percs)",
-      "details": "details"
+      "details": "Codeine, Fentanyl, Methadone, Morphine"
     },
     {
       "id": "16",
       "name": "Psilocybin (Mushrooms)",
-      "details": "details"
+      "details": ""
     },
     {
       "id": "17",
       "name": "Steroids (Anabolic)",
-      "details": "details"
+      "details": "Oxandrin, Anadrol, Depo-testosterone"
     },
     {
       "id": "18",
       "name": "Tobacco/Nicotine and Vaping ",
-      "details": "details"
+      "details": "Cigarettes, cigars, hookahs, Elf Bar"
     }
   ]
 }
