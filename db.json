@@ -3,7 +3,8 @@
     {
       "id": "1",
       "name": "Alcohol",
-      "details": "details"
+      "details": "details",
+      "link": "google"
     },
     {
       "id": "2",
